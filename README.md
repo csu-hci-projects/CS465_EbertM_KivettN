@@ -6,6 +6,6 @@ At the current stage of our project we are trying to gather as much research as 
 
 ### A link to our overleaf project - https://www.overleaf.com/read/xdswspkqtsyy#15ee0c
 
-### A link to our youtube video - 
+### A link to our youtube video - https://youtu.be/yS8xP-NBF-M
 
 ### unity VR content - https://www.youtube.com/watch?v=o5xn52ARebg&ab_channel=DilmerValecillos https://www.youtube.com/watch?v=KCPEpbY5XQE&ab_channel=XRDevRob-XRAITutorials
