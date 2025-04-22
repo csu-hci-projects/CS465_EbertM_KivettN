@@ -16,3 +16,5 @@
 ### drawing in vr 3d - https://youtu.be/dyUoSrf4gWQ?si=vPvruitmTGe6246r
 
 ### drawing in vr 2d - https://www.youtube.com/watch?v=oggaY0ZlJJE&t=207s&ab_channel=VRPlayground
+
+#### note we do not have github lfs setup for this project so we cannot even push a zip of the project
