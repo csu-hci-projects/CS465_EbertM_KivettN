@@ -37,6 +37,8 @@
 
 ### Max - This class was very hard for me personally to partcipate in the coding, VR portion of as I have limited time and technology to dedicate to getting Unreal and Meta working. I have no devices that I have admin access to that I could make meaningful contributions to furthering our research on the project side of things. As you can imagine that made it harder for the best possible product to be put out. I also ended up using my own money to continue to try and make it work by buying things such as adapters. In the future I would hope for this class to maybe have a dedicated lab time to allow for TAs and students to be there at dedicated times to have access to the nice lab devices and actually be able to make changes to them.
 
+### Link to our questionaire - https://docs.google.com/forms/d/e/1FAIpQLSdjQUlj-w6MZyKCN4dKY0KYQptqgsdf-UFuxoq2fISZWaMRAQ/viewform?usp=dialog
+
 ## Extra context
 
 ### drawing in vr 3d - https://youtu.be/dyUoSrf4gWQ?si=vPvruitmTGe6246r
