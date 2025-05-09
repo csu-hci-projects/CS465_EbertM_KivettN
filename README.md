@@ -18,7 +18,7 @@
 
 ### Short Video - https://youtu.be/s1c25eTz2lk
 
-### Presentation Video - https://youtu.be/AmExHbZJgBI?si=vsqJournYOKsCH9W
+### Presentation Video - 
 
 ### Programming Video - https://youtu.be/39U_Zlj3ah4
 
@@ -33,7 +33,9 @@
 ## Information about how the project went
 
 ### Noah - During the later 3/4ths of the semester we asked Prof. Ortega if we could drop the 'hand tracking' portion of our project. We had issues with the UE5 hand tracking showcase and the version of UE5 that it was built in. It was only compatable for UE5.3.4 while some of our other dependencies like the MetaXR plugin was not compatable for UE5.3.4 and instead only compatable for UE5.4.4.
-### This set us back pretty far as we were stuck for a long time getting hand tracking working and trying to figure out how to implement it ourself using the basic handtracking that the 'Meta Developer' plugins provided. This meant learning complex linear algebra to determine different hand gestures and the distances between bones in the hand. I spent a considerable ammout of time trying to solve this problem that could have been spent on researching and creating our final prototype.
+### This set us back pretty far as I was stuck for a long time getting hand tracking working and trying to figure out how to implement it ourself using the basic handtracking that the 'Meta Developer' plugins provided. This meant learning complex linear algebra to determine different hand gestures and the distances between bones in the hand. I spent a considerable ammout of time trying to solve this problem that could have been spent on researching and creating our final prototype.
+
+### Max - This class was very hard for me personally to partcipate in the coding, VR portion of as I have limited time and technology to dedicate to getting Unreal and Meta working. I have no devices that I have admin access to that I could make meaningful contributions to furthering our research on the project side of things. As you can imagine that made it harder for the best possible product to be put out. I also ended up using my own money to continue to try and make it work by buying things such as adapters. In the future I would hope for this class to maybe have a dedicated lab time to allow for TAs and students to be there at dedicated times to have access to the nice lab devices and actually be able to make changes to them.
 
 ## Extra context
 
